@@ -1,0 +1,36 @@
+Apr 29 09:03:46 example-server sshd[56533]: reverse mapping checking getaddrinfo for 108-162-143-229.cable.teksavvy.com [108.162.143.229] failed - POSSIBLE BREAK-IN ATTEMPT!
+Apr 29 09:03:47 example-server sshd[56533]: Invalid user admin from 108.162.143.229
+Apr 29 09:03:47 example-server sshd[56533]: input_userauth_request: invalid user admin [preauth]
+Apr 29 22:09:10 example-server sshd[36410]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=123.183.209.132  user=root
+Apr 29 22:09:12 example-server sshd[36410]: Failed password for root from 123.183.209.132 port 61691 ssh2
+Apr 29 22:09:16 example-server sshd[36410]: message repeated 2 times: [ Failed password for root from 123.183.209.132 port 61691 ssh2]
+Apr 29 22:09:16 example-server sshd[36410]: Received disconnect from 123.183.209.132: 11:  [preauth]
+Apr 29 22:09:16 example-server sshd[36410]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=123.183.209.132  user=root
+Apr 29 22:09:38 example-server sshd[36460]: Received disconnect from 123.183.209.132: 11:  [preauth]
+Apr 29 22:09:41 example-server sshd[36491]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=123.183.209.132  user=root
+Apr 29 22:09:43 example-server sshd[36491]: Failed password for root from 123.183.209.132 port 63674 ssh2
+Apr 29 22:09:45 example-server sshd[36491]: Failed password for root from 123.183.209.132 port 63674 ssh2
+Apr 30 08:15:56 example-server sshd[122421]: reverse mapping checking getaddrinfo for 21.128.193.35.bc.googleusercontent.com [35.193.128.21] failed - POSSIBLE BREAK-IN ATTEMPT!
+Apr 30 08:15:56 example-server sshd[122421]: Invalid user linuxadmin from 35.193.128.21
+May  1 00:01:26 example-server sshd[126782]: Failed password for root from 123.183.209.132 port 40782 ssh2
+May  1 00:01:29 example-server sshd[126782]: Failed password for root from 123.183.209.132 port 40782 ssh2
+May  1 00:01:29 example-server sshd[126785]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=115.238.245.8  user=root
+May  1 00:01:30 example-server sshd[126785]: Failed password for root from 115.238.245.8 port 49872 ssh2
+May  1 00:01:34 example-server sshd[126782]: Failed password for root from 123.183.209.132 port 40782 ssh2
+May  1 00:01:34 example-server sshd[126782]: Received disconnect from 123.183.209.132: 11:  [preauth]
+May  1 00:01:34 example-server sshd[126782]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=123.183.209.132  user=root
+May  1 00:01:34 example-server sshd[126785]: Failed password for root from 115.238.245.8 port 49872 ssh2
+May  1 00:01:37 example-server sshd[126785]: Failed password for root from 115.238.245.8 port 49872 ssh2
+May  1 02:40:11 example-server sshd[18909]: Failed password for invalid user ubuntu from 90.160.145.30 port 56944 ssh2
+May  1 02:40:11 example-server sshd[18909]: Received disconnect from 90.160.145.30: 11: Bye Bye [preauth]
+May  1 02:40:32 example-server sshd[18931]: reverse mapping checking getaddrinfo for vps.treatmentdemo.com [69.90.223.232] failed - POSSIBLE BREAK-IN ATTEMPT!
+May  1 02:40:32 example-server sshd[18931]: Invalid user production from 69.90.223.232
+May  1 02:40:32 example-server sshd[18931]: input_userauth_request: invalid user production [preauth]
+May  1 02:40:32 example-server sshd[18931]: pam_unix(sshd:auth): check pass; user unknown
+May  1 02:40:32 example-server sshd[18931]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=69.90.223.232 
+May  1 02:40:33 example-server sshd[18931]: Failed password for invalid user production from 69.90.223.232 port 36380 ssh2
+May  1 16:22:52 example-server sshd[4498]: reverse mapping checking getaddrinfo for hn.kd.ny.adsl [42.236.73.19] failed - POSSIBLE BREAK-IN ATTEMPT!
+May  1 16:22:52 example-server sshd[4498]: Invalid user user from 42.236.73.19
+May  1 16:25:05 example-server sshd[4802]: reverse mapping checking getaddrinfo for dynamicip-176-214-76-92.pppoe.yar.ertelecom.ru [176.214.76.92] failed - POSSIBLE BREAK-IN ATTEMPT!
+May  1 16:25:05 example-server sshd[4802]: Invalid user ts3musicbot from 176.214.76.92
+May  1 16:25:05 example-server sshd[4802]: input_userauth_request: invalid user ts3musicbot [preauth]

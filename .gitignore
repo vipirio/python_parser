@@ -1,0 +1,5 @@
+Failed_password.json
+reverse_mapping.json
+data.json
+*.pyc
+__pycache__/
